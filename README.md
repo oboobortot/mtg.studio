@@ -35,6 +35,6 @@ https://status.mtg.studio
 
 https://discord.gg/QvSFfQVztX
 
-## Page Rank
+## SEO Rank
 
-<a href="https://checkpagerank.net/check-page-rank.php" title="internet marketing" target="_blank"><img src="https://checkpagerank.net/pricon.php?key=9aa77617483c875747a01c23fb9e097d" alt="google backlink checker" /></a>
+https://www.seoptimer.com/mtg.studio

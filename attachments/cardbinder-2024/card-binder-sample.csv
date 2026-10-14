@@ -1,0 +1,21 @@
+export_type;scryfall_uuid;set_code;quantity;foil_quantity;card_name;set_name;cardMarketId;english_card_name;lang;collector_number
+card;09a6cc7d-b3d7-428c-8b31-0c5691c43c32;pres;0;1;Llanowar Elves;Resale Promos;749054;Llanowar Elves;EN;1
+card;e15e0521-1abf-4426-9f31-4081f068b184;wot;1;0;Polluted Bonds;Wilds of Eldraine: Enchanting Tales;728389;Polluted Bonds;EN;34
+card;845b3c26-05da-4a09-a6c9-4ea4166104a7;woe;1;0;Realm-Scorcher Hellkite;Wilds of Eldraine;728064;Realm-Scorcher Hellkite;EN;145
+card;e595014d-4ff4-4561-b7f2-a9bd56300b01;woe;1;0;Mocking Sprite;Wilds of Eldraine;729056;Mocking Sprite;EN;62
+card;1a7576d7-ef3a-48b1-a06b-81d334c57b96;wot;1;0;Raid Bombardment;Wilds of Eldraine: Enchanting Tales;728404;Raid Bombardment;EN;47
+card;6854dc06-4845-4201-958b-2fdad3f7b64a;wot;1;0;Vampiric Rites;Wilds of Eldraine: Enchanting Tales;730289;Vampiric Rites;EN;37
+card;60976109-30ad-4f12-99eb-c5ef560fcf1b;woe;0;1;Galvanic Giant // Storm Reading;Wilds of Eldraine;729026;Galvanic Giant // Storm Reading;EN;52
+card;2ef878cb-27b6-47d8-ad11-bd20529b0e7e;ltr;1;0;Cast into the Fire;The Lord of the Rings: Tales of Middle-earth;715924;Cast into the Fire;EN;118
+card;8b716fcc-c4cc-4987-be82-2897a9888d23;ltr;1;0;Smite the Deathless;The Lord of the Rings: Tales of Middle-earth;715934;Smite the Deathless;EN;148
+card;d563f5af-6735-4541-8d5f-d58ab8389e8b;ltr;1;0;Prince Imrahil the Fair;The Lord of the Rings: Tales of Middle-earth;-;Prince Imrahil the Fair;EN;670
+card;d4fbcac6-8ac9-44a8-9d1a-03d0799ac253;ltr;0;1;Rising of the Day;The Lord of the Rings: Tales of Middle-earth;715933;Rising of the Day;EN;145
+card;71ed2e4b-c732-472a-a589-f1f53086d9ee;ltr;1;0;Westfold Rider;The Lord of the Rings: Tales of Middle-earth;715893;Westfold Rider;EN;37
+card;661338ff-a192-4007-a144-63d00f2e9ecb;ltr;1;0;Knights of Dol Amroth;The Lord of the Rings: Tales of Middle-earth;715896;Knights of Dol Amroth;EN;59
+card;3d5f92bf-e4e7-487a-834c-964fdd6ad674;ltr;1;0;Dúnedain Blade;The Lord of the Rings: Tales of Middle-earth;715885;Dúnedain Blade;EN;6
+card;b8397d13-eeaf-4b4e-b3cd-9a9ac231873a;ltr;1;0;Improvised Club;The Lord of the Rings: Tales of Middle-earth;717104;Improvised Club;EN;137
+card;d9b7d7f8-503d-4660-9a18-6a8e2fcaa25f;ltr;1;0;Voracious Fell Beast;The Lord of the Rings: Tales of Middle-earth;715922;Voracious Fell Beast;EN;113
+card;ec0984b2-bed6-41b1-9087-2cfd16749037;ltr;1;0;Shadow Summoning;The Lord of the Rings: Tales of Middle-earth;716998;Shadow Summoning;EN;226
+card;008b953a-da2b-4c30-9424-6d6e3e938251;ltr;1;0;Faramir, Field Commander;The Lord of the Rings: Tales of Middle-earth;717774;Faramir, Field Commander;EN;303
+card;e85a82bc-49f3-4694-b688-808a541146db;ltr;1;0;Spiteful Banditry;The Lord of the Rings: Tales of Middle-earth;716275;Spiteful Banditry;EN;149
+card;a3bb0051-3ba3-4e22-9098-42ee0d9b645c;ltr;0;1;Lash of the Balrog;The Lord of the Rings: Tales of Middle-earth;717749;Lash of the Balrog;EN;408
